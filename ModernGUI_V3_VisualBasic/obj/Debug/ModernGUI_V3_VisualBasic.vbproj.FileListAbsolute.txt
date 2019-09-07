@@ -1,0 +1,18 @@
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\bin\Debug\ModernGUI_V3_VisualBasic.exe.config
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\bin\Debug\ModernGUI_V3_VisualBasic.exe
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\bin\Debug\ModernGUI_V3_VisualBasic.pdb
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\bin\Debug\ModernGUI_V3_VisualBasic.xml
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.vbprojResolveAssemblyReference.cache
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.Resources.resources
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.vbproj.GenerateResource.Cache
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.exe
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.xml
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.pdb
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.FormPrincipal.resources
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.Form1.resources
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.Form2.resources
+D:\Programacion\YT Tutos\Proyectos VB\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.Form3.resources
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\bin\Debug\ModernGUI_V3_VisualBasic.exe.config
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.exe
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.xml
+D:\RJ Code Advance\Proyectos y DBs 2019\ModernGUI_V3_VisualBasic\ModernGUI_V3_VisualBasic\obj\Debug\ModernGUI_V3_VisualBasic.pdb
